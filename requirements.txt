@@ -1,0 +1,8 @@
+
+django 
+djangorestframework 
+langgraph 
+langchain 
+langchain-google-genai 
+python-dotenv
+django-cors-headers
